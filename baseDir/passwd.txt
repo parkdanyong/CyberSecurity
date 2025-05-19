@@ -1,0 +1,1 @@
+geonyong:!:1000:1000::/:/home/geonyong:user/bin/bash
